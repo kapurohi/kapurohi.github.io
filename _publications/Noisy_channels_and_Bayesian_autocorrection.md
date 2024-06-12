@@ -6,7 +6,7 @@ excerpt: 'This paper is about the concept of noisy channels in Information Theor
 date: June 8, 2023
 venue: 'arxiv.org'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://github.com/kapurohi/kapurohi.github.io/blob/master/files/Noisy_channels_and_Bayesian_autocorrection.pdf'
+paperurl: 'files/Noisy_channels_and_Bayesian_autocorrection.pdf'
 # citation: 'Purohit, Kavish. &quot;Noisy channels and Bayesian autocorrection.&quot; (2023).'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
