@@ -9,6 +9,12 @@ redirect_from:
 
 Hello! My name is Kavish A. Purohit. Welcome to my website!
 
+# Professional Statement
+
+I am a passionate math graduate from UC Davis. I majored in Math and Scientific Computation and minored in Computer Science. I am engaged in cutting-edge academic research alongside esteemed professors, delving into algebraic geometry, combinatorics, and applied mathematics. I am also a dedicated part-time math tutor, empowering high school students to unlock their potential and excel in mathematics. 
+
+I seek opportunities to leverage my mathematical prowess and coding skills within the industry. I am eager to contribute to innovative projects that merge math with computer science to drive impactful solutions. Let's connect and explore how we can collaborate!
+
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
