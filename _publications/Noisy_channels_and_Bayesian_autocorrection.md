@@ -3,11 +3,11 @@ title: "Noisy channels and Bayesian autocorrection"
 collection: publications
 permalink: /publication/noisy-channels-and-bayesian-autocorrection
 excerpt: 'This paper is about the concept of noisy channels in Information Theory.'
-date: June 8, 2023
+date: June 8, 2022
 venue: 'arxiv.org'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: "http://kapurohi.github.io/files/Noisy_channels_and_Bayesian_autocorrection.pdf"
-# citation: 'Purohit, Kavish. &quot;Noisy channels and Bayesian autocorrection.&quot; (2023).'
+# citation: 'Purohit, Kavish. &quot;Noisy channels and Bayesian autocorrection.&quot; (2022).'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
