@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Noisy channels and Bayesian autocorrection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/noisy-channels-and-bayesian-autocorrection
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://github.com/kapurohi/kapurohi.github.io/files/Noisy channels and Bayesian autocorrection.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
