@@ -15,7 +15,7 @@ Education
   * [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"} - Davis, CA
   * GPA - 3.64/4.00
   
-Research experience
+<!-- Research experience
 ======
 * **Research Assistant - UC Davis Math Department** (Davis, CA)
 
@@ -32,7 +32,7 @@ Research experience
   **Polyharmonic Trigonometric Transform Research** (September 2023 - April 2024)
   * Investigated the mathematical foundations of polyharmonic local trigonometric transforms, explored their properties, and advanced the theoretical understanding of their applications in image processing.
   * Developed efficient algorithms and methodologies for implementing polyharmonic local trigonometric transforms in the context of image processing.
-  * Applied polyharmonic local trigonometric transforms to real-world image processing challenges, with a focus on optimizing efficiency, and improving image quality, and identified novel applications that leverage the unique features of these transforms.
+  * Applied polyharmonic local trigonometric transforms to real-world image processing challenges, with a focus on optimizing efficiency, and improving image quality, and identified novel applications that leverage the unique features of these transforms. -->
 
 Work experience
 ======
