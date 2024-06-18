@@ -13,7 +13,8 @@ Education
 =====
 * **B.Sc. in Mathematical and Scientific Computation**
   * [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"} - Davis, CA
-  * GPA - 3.64/4.00
+  * GPA - *3.64 of 4.00*
+  * Minor - Computer Science
   
 <!-- Research experience
 ======
