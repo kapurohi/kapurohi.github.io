@@ -67,7 +67,7 @@ Service and leadership
 
 Skills
 ======
-* Computer Skills: **Python**, **LaTeX**, Julia, C / C++, MATLAB.
+* Computer Languages: **Python**, **LaTeX**, Julia, C / C++, MATLAB, SQL.
 * Framework/Tools: **Jupyter**, **NumPy**, **Matplotlib**, Seaborn, PyTorch, TensorFlow
 * Other skills: **Combinatorics**, **Optimization**, **Mathematical Computation**, Algebra, Algebraic Geometry, Analysis, Partial Differential Equations.
 
