@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Kavish Purohit"
   pronouns         : "he/him/his"  
-  bio              : "Research Assistant and Math Tutor"
+  bio              : #""
   location         : "Davis"
   employer         : "University of California Davis"
   uri              : # URL
