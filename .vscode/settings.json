@@ -1,0 +1,26 @@
+{
+  "sqltools.connections": [
+    {
+      "server": "http://localhost:8080",
+      "port": 3306,
+      "database": "db_kavish_e48b2",
+      "username": "root",
+      "password": "F2kpXs8JWGZfqz2yBlJ5zCT3ZsB9CRt5",
+      "useSsl": false,
+      "previewLimit": 50,
+      "driver": "SingleStoreDB",
+      "name": "SingleStoreConnection"
+    },
+    {
+      "server": "http://localhost:8080",
+      "port": 3306,
+      "database": "",
+      "username": "root",
+      "password": "kaXAkMxzMzEhNDvywmalmlmkBHiPs2hV",
+      "useSsl": false,
+      "previewLimit": 50,
+      "driver": "SingleStoreDB",
+      "name": "Sample1"
+    }
+  ]
+}

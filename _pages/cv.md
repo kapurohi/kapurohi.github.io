@@ -52,7 +52,6 @@ Work experience
   * Provided responsive and effective customer service by addressing inquiries and resolving issues for all patrons.
   * Contributed to daily operations, and staff meetings, and played a key role in coordinating major club and university events. Acted as a first responder in emergency situations, assisting with swift and effective responses.
 
-* ****
   
 Service and leadership
 ======
