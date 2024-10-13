@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Kavish A. Purohit. Welcome to my website!
+Hi! My name is Kavish A. Purohit. Welcome to my website!
 
 # Professional Statement
 
