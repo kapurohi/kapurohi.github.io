@@ -11,19 +11,15 @@ redirect_from:
   
 <!-- Research experience
 ====== -->
-**Research Assistant - UC Davis Math Department** (Davis, CA)
+**Research Collaborator - UC Davis Department of Mathematics** (Davis, CA)  
+*June 2023 - November 2024*
 
-  **Biharmonic Operator Research** (April 2024 - Present)
-  * Working on the Laplacian Eigenvalue function and Green's Theorem for the Biharmonic Operator in one-dimension numerically.
-  * Leveraging expertise in numerical analysis and computational techniques to address challenges in analyzing the Laplacian Eigenvalue function and applying Green's Theorem to the Biharmonic Operator.
-  * Conducted pioneering research in numerical methods and demonstrated proficiency in computational mathematics and algorithm development.
+I conducted original research in algebraic geometry with faculty collaborators at UC Davis, with a focus on irreducible components of two-column Delta-Springer fibers. This work culminated in a peer-reviewed publication and reflects my interest in rigorous mathematical analysis, abstract structures, and long-form problem solving.
 
-  **Springer Fiber Research** (January 2023 - Present)
-  * Conducting research on the Irreducible components of Springer Fibers within n-dimensional complex space, specifically two-column case.
-  * Proving that arbitrary intersections of Irreducible components of a two-column Delta-Springer Fiber is an iterated Grassmannian Fiber bundle.
-  * Conducting advanced research with a focus on their applications in algebraic geometry and combinatorics.
+Highlights from this work:
 
-  **Polyharmonic Trigonometric Transform Research** (September 2023 - April 2024)
-  * Investigated the mathematical foundations of polyharmonic local trigonometric transforms, explored their properties, and advanced the theoretical understanding of their applications in image processing.
-  * Developed efficient algorithms and methodologies for implementing polyharmonic local trigonometric transforms in the context of image processing.
-  * Applied polyharmonic local trigonometric transforms to real-world image processing challenges, with a focus on optimizing efficiency, and improving image quality, and identified novel applications that leverage the unique features of these transforms.
+* Studied the geometry of irreducible components of two-column Delta-Springer fibers and their intersections.
+* Helped develop proofs showing that arbitrary intersections admit the structure of iterated Grassmannian fiber bundles.
+* Contributed to a publication connecting algebraic geometry and combinatorics through smooth Hessenberg varieties and cohomology computations.
+
+Prior research interests also included numerical analysis and applied mathematics, including work related to polyharmonic trigonometric transforms and the biharmonic operator.

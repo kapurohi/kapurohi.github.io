@@ -11,9 +11,11 @@ Hi! My name is Kavish A. Purohit. Welcome to my website!
 
 # Professional Statement
 
-I am a passionate math graduate from UC Davis. I majored in Math and Scientific Computation and minored in Computer Science. I am engaged in cutting-edge academic research alongside esteemed professors, delving into algebraic geometry, combinatorics, and applied mathematics. I am also a dedicated part-time math tutor, empowering high school students to unlock their potential and excel in mathematics. 
+I am a computational mathematics graduate from UC Davis with experience spanning quantitative research, financial modeling, and data analytics. My background combines rigorous mathematical training with hands-on technical work in Python, SQL, and statistical analysis.
 
-I seek opportunities to leverage my mathematical prowess and coding skills within the industry. I am eager to contribute to innovative projects that merge math with computer science to drive impactful solutions. Let's connect and explore how we can collaborate!
+I have built projects in portfolio optimization, volatility regime analysis, and automated discounted cash flow valuation, with a focus on translating data into practical decision-making tools. Alongside that work, I have contributed to peer-reviewed mathematical research and industry-facing analytics projects.
+
+I am currently seeking entry-level opportunities in quantitative analysis, data analytics, and finance or fintech where I can apply mathematical thinking, programming, and research discipline to real-world problems.
 
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
